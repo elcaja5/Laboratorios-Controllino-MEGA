@@ -52,8 +52,7 @@ Diseñado con fines educativos, pero aplicable a prototipos industriales.
 ### Software
 - **Arduino IDE**  
 - Librerías: `Stone_HMI_Define.h`, `Procesar_HMI.h`  
-- **NI LabVIEW** (opcional — para simulación y obtención de función de transferencia)
-- **MATLAB**
+- **NI LabVIEW & MATLAB** (para simulación y obtención de función de transferencia)
 ---
 
 ## Arquitectura General
