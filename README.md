@@ -25,10 +25,8 @@ Repositorio con prácticas de laboratorio orientadas al aprendizaje práctico de
   - [Hardware](#-hardware)  
   - [Software](#-software)  
 - [Arquitectura General](#-arquitectura-general)  
-- [Autores](#-autores)  
-- [Contribuciones](#-contribuciones)  
-- [Agradecimientos](#-agradecimientos)
-
+- [Autores](#-autores)
+- 
 ---
 
 ## Contenido del Repositorio
@@ -76,6 +74,7 @@ Controllino Mega
     └── Comunicación Serial (UART)
 
 ---
+```
 
 ## Autores
 
@@ -86,12 +85,3 @@ GitHub: [@elcaja](https://github.com/elcaja)
 GitHub: [@ChrisCarchipulla](https://github.com/ChrisCarchipulla)
 
 ---
-
-## Agradecimientos
-
-Material y referencias usadas como base para estas prácticas: documentación oficial de **Controllino**, guías de **HMI STONE** y recursos académicos sobre control PID y adquisición de datos.
-
----
-
-<div align="center" style="margin-top:18px;">  
-</div>
