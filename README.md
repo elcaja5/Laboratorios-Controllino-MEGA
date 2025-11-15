@@ -88,8 +88,6 @@ GitHub: [@ChrisCarchipulla](https://github.com/ChrisCarchipulla)
 
 ## Enlaces del Repositorio
 
-Aquí un ejemplo de cómo enlazar carpetas internas:
-
-**Práctica 1:**  
-[https://github.com/elcaja/GRUPO8-Laboratorios-Controllino-MEGA/tree/main/Lab7_PID](https://github.com/elcaja/GRUPO8-Laboratorios-Controllino-MEGA/tree/main/Lab7_PID)
+- **Práctica 7 — Control PID:**  
+  https://github.com/elcaja/GRUPO8-Laboratorios-Controllino-MEGA/tree/main/Lab7_PID
 
