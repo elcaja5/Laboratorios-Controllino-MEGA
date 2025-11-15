@@ -11,8 +11,7 @@
 </div>
 
 ---
-
-# 📘 Control-Digital  
+  
 Repositorio con prácticas de laboratorio orientadas al aprendizaje práctico de **automatización**, **adquisición de datos** e **integración con HMI industriales**.  
 Diseñado con fines educativos, pero aplicable a prototipos industriales.
 
