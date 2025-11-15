@@ -85,21 +85,14 @@ GitHub: [@ChrisCarchipulla](https://github.com/ChrisCarchipulla)
 
 ---
 
-## Enlaces del Repositorio
+## 📁 Enlaces del Repositorio
 
-- **Práctica 4 — Secuencia LEDs:**
+- **Práctica 4 — Secuencia LEDs:** [Ir a carpeta](https://github.com/elcaja5/GRUPO8-Laboratorios-Controllino-MEGA/tree/main/Lab4_secuencia_leds)
 
-https://github.com/elcaja5/GRUPO8-Laboratorios-Controllino-MEGA/tree/main/Lab4_secuencia_leds   
+- **Práctica 5 — Secuencia Semáforo:** [Ir a carpeta](https://github.com/elcaja5/GRUPO8-Laboratorios-Controllino-MEGA/tree/main/Lab5_Secuencia2_Sem%C3%A1foro)
 
-- **Práctica 5 — Secuencia Semáforo:**
+- **Práctica 6 — PWM:** [Ir a carpeta](https://github.com/elcaja5/GRUPO8-Laboratorios-Controllino-MEGA/tree/main/Lab6_PWM)
 
-https://github.com/elcaja5/GRUPO8-Laboratorios-Controllino-MEGA/tree/main/Lab5_Secuencia2_Sem%C3%A1foro    
+- **Práctica 7 — Control PID:** [Ir a carpeta](https://github.com/elcaja5/GRUPO8-Laboratorios-Controllino-MEGA/tree/main/Lab7_PID)
 
-- **Práctica 6 — PWM:**
-
-https://github.com/elcaja5/GRUPO8-Laboratorios-Controllino-MEGA/tree/main/Lab6_PWM
-
-- **Práctica 7 — Control PID:**    
-
-https://github.com/elcaja5/GRUPO8-Laboratorios-Controllino-MEGA/tree/main/Lab7_PID
 
